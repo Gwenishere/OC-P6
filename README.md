@@ -1,8 +1,8 @@
-## MEAN Stack with Angular 2 Tutorial
+## Project So Pekocko
 
-This is an application demonstrating the basic components needed for a Single Page Application using MongoDB, ExpressJS, Angular 2, and NodeJS.
+This is an application using MongoDB, ExpressJS, Angular 2, and NodeJS.
 
-A working example can be found [here](https://damp-bastion-39490.herokuapp.com/). Additionally, a YouTube tutorial series illustrating how to create this application from scratch can be found [here](https://youtu.be/pDYhwfi7VU0).
+My work was to create to backend part
 
 ## Requirements
 
@@ -12,7 +12,7 @@ A working example can be found [here](https://damp-bastion-39490.herokuapp.com/)
 
 ## Description
 
-This applications demonstrates how to setup a RESTful API using NodeJS with Angular 2 Frontend. The application features a blog feed, where users can post comments, like posts, dislike posts, and create/edit/delete their own blog posts.
+The application features web pages feed, where users can post comments, like posts, dislike posts, and create/edit/delete their own posts.
 
 ## Installation
 
@@ -21,21 +21,14 @@ This applications demonstrates how to setup a RESTful API using NodeJS with Angu
 $ npm install
 ```
 
-- Next, install all of the Angular 2 development dependencies in package.json file:
-```
-$ cd client/
-$ npm install
-```
-
 - Installation is complete. Navigate to the root directory and then:  
 
 ## Production
 -- In root directory:
 ```
-$ npm run build
 $ npm start
 ```
--- Access production server at: http://localhost:8080
+-- Access production server at: http://localhost:4200
 
 ## Development
 ```
@@ -48,13 +41,9 @@ $ npm start
 ```
 -- Access development server at: http://localhost:4200
 
--- Access API at: http://localhost:8080
+-- Access API at: http://localhost:4200
 
-
-## Contributors
-
-David Acosta.
 
 ## License
 
-No license.
+Openclassrooms
