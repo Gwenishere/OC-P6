@@ -1,8 +1,8 @@
 ## Project So Pekocko
 
-This is an application using MongoDB, ExpressJS, Angular 2, and NodeJS.
+This is an application using MongoDB, ExpressJS, Angular, and NodeJS.
 
-My work was to create to backend part
+My work was to create the backend part and to respect OWASP using tools.
 
 ## Requirements
 
